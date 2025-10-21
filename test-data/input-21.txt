@@ -1,0 +1,3 @@
+GT4500,10,0,0,0  # secondary üres
+TORPEDO,SINGLE   # primary lő először
+TORPEDO,SINGLE   # secondary üres, újra primary lő

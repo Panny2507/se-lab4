@@ -1,0 +1,4 @@
+# 10. wasPrimaryFiredLast=true, secondary üres, primary teli → primary újrafelhasználás
+GT4500,3,0,0,0
+TORPEDO,SINGLE   # primary lő (1. lövés)
+TORPEDO,SINGLE   # wasPrimary=true, secondary üres → primary újra (2. lövés)

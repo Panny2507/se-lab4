@@ -1,0 +1,3 @@
+# Először secondary lő (primary üres), majd újra secondary
+GT4500,0,0,10,0
+TORPEDO,SINGLE

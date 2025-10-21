@@ -1,0 +1,3 @@
+# 12. Primary mindig hibázik → SINGLE → FAILURE
+GT4500,1,1.0,0,0
+TORPEDO,SINGLE
