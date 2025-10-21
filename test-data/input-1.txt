@@ -1,0 +1,5 @@
+# Create ship with full, non-failing torpedo stores
+GT4500,10,0,10,0
+# Fire twice in SINGLE mode (should alternate between primary and secondary)
+TORPEDO,SINGLE
+TORPEDO,SINGLE
