@@ -1,3 +1,2 @@
-# 12. Primary mindig hibázik → SINGLE → FAILURE
-GT4500,1,1.0,0,0
+GT4500,1,1.0,0,0 # 12. Primary mindig hibázik → SINGLE → FAILURE
 TORPEDO,SINGLE

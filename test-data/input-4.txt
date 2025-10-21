@@ -1,2 +1,2 @@
-GT4500,5,0,5,0 //all, mindkét tár teli
+GT4500,5,0,5,0 #all, mindkét tár teli
 TORPEDO,ALL

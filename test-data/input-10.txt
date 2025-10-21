@@ -1,3 +1,2 @@
-# 11. ALL mód, mindkét tár üres → FAILURE
-GT4500,0,0,0,0
+GT4500,0,0,0,0 # 11. ALL mód, mindkét tár üres → FAILURE
 TORPEDO,ALL
